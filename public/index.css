@@ -1,0 +1,17 @@
+body{
+    background-color: #F0F6FF;
+    position: relative;
+    font-size: 16px;
+    color: #333;
+}
+
+.todobox{
+    width: 400px;
+    height: auto;
+    margin: 240px auto;
+    padding: 24px;
+    background-color: white;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px; 
+    box-sizing: border-box;
+}
